@@ -1,10 +1,13 @@
 numbers = [10, 25, 40, 15, 35]
 
-largest = max(numbers)
-second_largest = numbers[0]
+largest = numbers[0]
+secondlargest = numbers[0]
 
-for num in numbers:
-    if num > second_largest and num != largest:
-        second_largest = num
+for i in numbers[1:]:
+    if i > largest:
+        secondlargest = largest
+        largest = i
+    elif i > secondlargest and i != largest:
+        secondlargest = i
 
-print("Second largest element:", second_largest)
+print("Second largest:", secondlargest)
