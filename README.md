@@ -24,7 +24,7 @@ This repository contains beginner-friendly Python programs created to improve pr
 | largest_element.py | Finds the largest element |
 | smallest_element.py | Finds the smallest element |
 | reverse_list.py | Reverses a list |
-| frequency_count.py | Counts frequency of an element |
+| frequency_count.py | Counts frequency of an element |sum_of_list.py|count_even_odd.py|linear_search.py|remove_duplicates.py|second_largest.py
 
 ## Technologies Used
 - Python 3
