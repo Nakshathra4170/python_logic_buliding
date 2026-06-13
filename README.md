@@ -1,34 +1,45 @@
-This repository contains beginner-friendly Python programs created to improve problem-solving and logical thinking skills.
+# Python Logic Building
 
-## Topics Covered
+This repository contains beginner-friendly Python programs created to improve logical thinking, problem-solving skills, and Python programming fundamentals.
 
-### List Programs
-- Find the average of elements in a list
-- Find the largest element in a list
-- Find the smallest element in a list
-- Reverse a list
-- Find the frequency of an element in a list
+## List Programs
 
-### Logic Building Concepts
-- Loops
-- Conditions
-- Lists
-- Functions
-- Problem Solving
+* Find the average of elements in a list
+* Find the largest element in a list
+* Find the largest element without using `max()`
+* Find the smallest element in a list
+* Find the second largest element in a list
+* Find the sum of all elements in a list
+* Count even and odd numbers in a list
+* Reverse a list
+* Reverse a list without slicing
+* Find the frequency of an element in a list
+* Search for an element using Linear Search
+* Remove duplicate elements from a list
 
-## Programs Included
+## String Programs
 
-| Program | Description |
--------------------------
-| average_list.py | Finds the average of list elements |
-| largest_element.py | Finds the largest element |
-| smallest_element.py | Finds the smallest element |
-| reverse_list.py | Reverses a list |
-| frequency_count.py | Counts frequency of an element |sum_of_list.py|count_even_odd.py|linear_search.py|remove_duplicates.py|second_largest.py|count_character.py
-| count_upper_lower.py
-| remove_spaces.py
-| reverse_string.py
-| palindrome_string.py
+* Count characters in a string
+* Count uppercase and lowercase letters
+* Remove spaces from a string
+* Reverse a string
+* Check whether a string is a palindrome
+* Count vowels in a string
+
+## Concepts Covered
+
+* Variables
+* Input and Output
+* Loops
+* Conditional Statements
+* Lists
+* Strings
+* Searching
+* Functions
+* Problem Solving
 
 ## Technologies Used
-- Python 3
+
+* Python 3
+
+
